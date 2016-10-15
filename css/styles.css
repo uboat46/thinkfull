@@ -1,3 +1,22 @@
+body{
+	background: #ccf8ff;
+}
+.job{
+	background: #f7ffd6;
+}
+.img{
+	background: #9ed7fc;
+}
+.contact{
+	background: #f6e29b;
+}
+.ed{
+	background: #f7ffe9;
+}
+.liner{
+	text-decoration:underline;
+	background: #f7e9ff;
+}
 .float-left{
 	float: left;
 }
