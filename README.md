@@ -1,2 +1,2 @@
-# thinkfull
-Repo used for thinkfull proyects!!!
+# Thinkfull
+ ##Repo used for thinkfull proyects!!!
